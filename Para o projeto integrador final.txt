@@ -1,0 +1,22 @@
+Para o projeto integrador final.
+Pablo (API C#) Anderson (Frontend, Vue 3 + Typescript)
+
+todo projeto deve ter níveis de acesso
+(admin, usuário)
+
+Qual projeto desenvolver?
+1 - Site passagens de avião
+2 - Wiki de jogos/filmes
+3 - Site de herbalismo (plantas...)
+4 - Site de manutenção de smartphones
+5 - Site de ranking de times (e-sports)
+6 - Site de filmes
+7 - Site de treinos
+8 - Site de livros
+9 - Sistemas para auxiliar marketing nas publicações (Com IA)
+10 - Site de avisos SENAC
+11 - Site de montagem de hack (redes)
+12 - Site de catálogo
+
+13 - Criador de formulários de pesquisas
+14 -
